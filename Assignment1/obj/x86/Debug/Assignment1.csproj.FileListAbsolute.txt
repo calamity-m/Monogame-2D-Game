@@ -1,0 +1,148 @@
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\obj\x86\Debug\Assignment1.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Assignment1.exe
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Assignment1.pdb
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\obj\x86\Debug\Assignment1.exe
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\obj\x86\Debug\Assignment1.pdb
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Textures\player.xnb
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Textures\Bullet.xnb
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Textures\pointer.xnb
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Textures\bulletYellow.xnb
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Textures\Hunter.xnb
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Textures\Wanderer.xnb
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Fonts\fontMain.xnb
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Sounds\explosion0.xnb
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Sounds\explosion1.xnb
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Sounds\explosion2.xnb
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Sounds\shoot0.xnb
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Sounds\shoot1.xnb
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Sounds\shoot2.xnb
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Sounds\spawn0.xnb
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Sounds\spawn1.xnb
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Sounds\spawn2.xnb
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Sounds\gamemusic.xnb
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Sounds\gamemusic.wma
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Textures\crosshair.xnb
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Textures\splashscreentex.xnb
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Textures\Menu\continue.xnb
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Textures\Menu\exit.xnb
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Textures\Menu\howtoplay.xnb
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Textures\Menu\menubutton.xnb
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Textures\Menu\newgame.xnb
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Textures\Menu\options.xnb
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Textures\Menu\title.xnb
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Textures\pointer0.xnb
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Textures\Menu\hexagonguy.xnb
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Textures\Menu\triangleman.xnb
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Textures\Menu\howtoplayscreen.xnb
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Sounds\menuselect0.xnb
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Sounds\menuselect1.xnb
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Sounds\menuselect2.xnb
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Sounds\menuselect3.xnb
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Textures\Options\high.xnb
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Textures\Options\low.xnb
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Textures\Options\med.xnb
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Textures\Options\medium.xnb
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Textures\Options\minus.xnb
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Textures\Options\plus.xnb
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Fonts\fontMainTitle.xnb
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Textures\Dart.xnb
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Textures\bulletEnemy.xnb
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Textures\fighter.xnb
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Textures\powerups.xnb
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Textures\boss.xnb
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Fonts\fontMainTitleLarge.xnb
+C:\Users\Mark\Documents\School\Semester 1 2017\Games Programming Techniques\Projects\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Textures\particle.xnb
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\obj\x86\Debug\Assignment1.exe
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\obj\x86\Debug\Assignment1.pdb
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Fonts\fontMain.xnb
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Fonts\fontMainTitle.xnb
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Fonts\fontMainTitleLarge.xnb
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Sounds\explosion0.xnb
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Sounds\explosion1.xnb
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Sounds\explosion2.xnb
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Sounds\gamemusic.wma
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Sounds\gamemusic.xnb
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Sounds\menuselect0.xnb
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Sounds\menuselect1.xnb
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Sounds\menuselect2.xnb
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Sounds\menuselect3.xnb
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Sounds\shoot0.xnb
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Sounds\shoot1.xnb
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Sounds\shoot2.xnb
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Sounds\spawn0.xnb
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Sounds\spawn1.xnb
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Sounds\spawn2.xnb
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Textures\boss.xnb
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Textures\Bullet.xnb
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Textures\bulletEnemy.xnb
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Textures\bulletYellow.xnb
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Textures\crosshair.xnb
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Textures\Dart.xnb
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Textures\fighter.xnb
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Textures\Hunter.xnb
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Textures\particle.xnb
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Textures\player.xnb
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Textures\pointer.xnb
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Textures\pointer0.xnb
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Textures\powerups.xnb
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Textures\splashscreentex.xnb
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Textures\Wanderer.xnb
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Textures\Menu\continue.xnb
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Textures\Menu\exit.xnb
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Textures\Menu\hexagonguy.xnb
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Textures\Menu\howtoplay.xnb
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Textures\Menu\howtoplayscreen.xnb
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Textures\Menu\menubutton.xnb
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Textures\Menu\newgame.xnb
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Textures\Menu\options.xnb
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Textures\Menu\title.xnb
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Textures\Menu\triangleman.xnb
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Textures\Options\high.xnb
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Textures\Options\low.xnb
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Textures\Options\med.xnb
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Textures\Options\medium.xnb
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Textures\Options\minus.xnb
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Content\Textures\Options\plus.xnb
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Assignment1.exe
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\Assignment1.pdb
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\u3154816\Documents\7160-Assignment1-u3154816\Assignment1\Assignment1\obj\x86\Debug\Assignment1.csprojResolveAssemblyReference.cache

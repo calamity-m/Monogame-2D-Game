@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Mark/Documents/School/Semester 1 2017/Games Programming Techniques/Projects/7160-Assignment1-u3154816/Assignment1/Assignment1/Content/Sounds/menuselect0.wav</SourceFile>
+  <SourceTime>2017-05-11T11:31:55.4872199+10:00</SourceTime>
+  <DestFile>C:/Users/Mark/Documents/School/Semester 1 2017/Games Programming Techniques/Projects/7160-Assignment1-u3154816/Assignment1/Assignment1/Content/bin/Windows/Sounds/menuselect0.xnb</DestFile>
+  <DestTime>2017-05-11T11:32:55.1081676+10:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2016-03-30T17:36:08+11:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2016-03-30T17:36:08+11:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Mark/Documents/School/Semester 1 2017/Games Programming Techniques/Projects/7160-Assignment1-u3154816/Assignment1/Assignment1/Content/Textures/player.png</File>
+    <File>C:/Users/Mark/Documents/School/Semester 1 2017/Games Programming Techniques/Projects/7160-Assignment1-u3154816/Assignment1/Assignment1/Content/Textures/Bullet.png</File>
+    <File>C:/Users/Mark/Documents/School/Semester 1 2017/Games Programming Techniques/Projects/7160-Assignment1-u3154816/Assignment1/Assignment1/Content/Textures/pointer.png</File>
+    <File>C:/Users/Mark/Documents/School/Semester 1 2017/Games Programming Techniques/Projects/7160-Assignment1-u3154816/Assignment1/Assignment1/Content/Textures/bulletYellow.png</File>
+    <File>C:/Users/Mark/Documents/School/Semester 1 2017/Games Programming Techniques/Projects/7160-Assignment1-u3154816/Assignment1/Assignment1/Content/Textures/Hunter.png</File>
+    <File>C:/Users/Mark/Documents/School/Semester 1 2017/Games Programming Techniques/Projects/7160-Assignment1-u3154816/Assignment1/Assignment1/Content/Textures/Wanderer.png</File>
+    <File>C:/Users/Mark/Documents/School/Semester 1 2017/Games Programming Techniques/Projects/7160-Assignment1-u3154816/Assignment1/Assignment1/Content/Fonts/fontMain.spritefont</File>
+    <File>C:/Users/Mark/Documents/School/Semester 1 2017/Games Programming Techniques/Projects/7160-Assignment1-u3154816/Assignment1/Assignment1/Content/Sounds/shoot0.wav</File>
+    <File>C:/Users/Mark/Documents/School/Semester 1 2017/Games Programming Techniques/Projects/7160-Assignment1-u3154816/Assignment1/Assignment1/Content/Sounds/shoot1.wav</File>
+    <File>C:/Users/Mark/Documents/School/Semester 1 2017/Games Programming Techniques/Projects/7160-Assignment1-u3154816/Assignment1/Assignment1/Content/Sounds/shoot2.wav</File>
+    <File>C:/Users/Mark/Documents/School/Semester 1 2017/Games Programming Techniques/Projects/7160-Assignment1-u3154816/Assignment1/Assignment1/Content/Sounds/explosion0.wav</File>
+    <File>C:/Users/Mark/Documents/School/Semester 1 2017/Games Programming Techniques/Projects/7160-Assignment1-u3154816/Assignment1/Assignment1/Content/Sounds/explosion1.wav</File>
+    <File>C:/Users/Mark/Documents/School/Semester 1 2017/Games Programming Techniques/Projects/7160-Assignment1-u3154816/Assignment1/Assignment1/Content/Sounds/explosion2.wav</File>
+    <File>C:/Users/Mark/Documents/School/Semester 1 2017/Games Programming Techniques/Projects/7160-Assignment1-u3154816/Assignment1/Assignment1/Content/Sounds/spawn0.wav</File>
+    <File>C:/Users/Mark/Documents/School/Semester 1 2017/Games Programming Techniques/Projects/7160-Assignment1-u3154816/Assignment1/Assignment1/Content/Sounds/spawn1.wav</File>
+    <File>C:/Users/Mark/Documents/School/Semester 1 2017/Games Programming Techniques/Projects/7160-Assignment1-u3154816/Assignment1/Assignment1/Content/Sounds/spawn2.wav</File>
+    <File>C:/Users/Mark/Documents/School/Semester 1 2017/Games Programming Techniques/Projects/7160-Assignment1-u3154816/Assignment1/Assignment1/Content/Sounds/gamemusic.WAV</File>
+    <File>C:/Users/Mark/Documents/School/Semester 1 2017/Games Programming Techniques/Projects/7160-Assignment1-u3154816/Assignment1/Assignment1/Content/Textures/crosshair.png</File>
+    <File>C:/Users/Mark/Documents/School/Semester 1 2017/Games Programming Techniques/Projects/7160-Assignment1-u3154816/Assignment1/Assignment1/Content/Textures/splashscreentex.png</File>
+    <File>C:/Users/Mark/Documents/School/Semester 1 2017/Games Programming Techniques/Projects/7160-Assignment1-u3154816/Assignment1/Assignment1/Content/Textures/Menu/menubutton.png</File>
+    <File>C:/Users/Mark/Documents/School/Semester 1 2017/Games Programming Techniques/Projects/7160-Assignment1-u3154816/Assignment1/Assignment1/Content/Textures/Menu/continue.png</File>
+    <File>C:/Users/Mark/Documents/School/Semester 1 2017/Games Programming Techniques/Projects/7160-Assignment1-u3154816/Assignment1/Assignment1/Content/Textures/Menu/exit.png</File>
+    <File>C:/Users/Mark/Documents/School/Semester 1 2017/Games Programming Techniques/Projects/7160-Assignment1-u3154816/Assignment1/Assignment1/Content/Textures/Menu/howtoplay.png</File>
+    <File>C:/Users/Mark/Documents/School/Semester 1 2017/Games Programming Techniques/Projects/7160-Assignment1-u3154816/Assignment1/Assignment1/Content/Textures/Menu/newgame.png</File>
+    <File>C:/Users/Mark/Documents/School/Semester 1 2017/Games Programming Techniques/Projects/7160-Assignment1-u3154816/Assignment1/Assignment1/Content/Textures/Menu/options.png</File>
+    <File>C:/Users/Mark/Documents/School/Semester 1 2017/Games Programming Techniques/Projects/7160-Assignment1-u3154816/Assignment1/Assignment1/Content/Textures/Menu/title.png</File>
+    <File>C:/Users/Mark/Documents/School/Semester 1 2017/Games Programming Techniques/Projects/7160-Assignment1-u3154816/Assignment1/Assignment1/Content/Textures/pointer0.png</File>
+    <File>C:/Users/Mark/Documents/School/Semester 1 2017/Games Programming Techniques/Projects/7160-Assignment1-u3154816/Assignment1/Assignment1/Content/Textures/Menu/triangleman.png</File>
+    <File>C:/Users/Mark/Documents/School/Semester 1 2017/Games Programming Techniques/Projects/7160-Assignment1-u3154816/Assignment1/Assignment1/Content/Textures/Menu/hexagonguy.png</File>
+    <File>C:/Users/Mark/Documents/School/Semester 1 2017/Games Programming Techniques/Projects/7160-Assignment1-u3154816/Assignment1/Assignment1/Content/Textures/Menu/howtoplayscreen.png</File>
+    <File>C:/Users/Mark/Documents/School/Semester 1 2017/Games Programming Techniques/Projects/7160-Assignment1-u3154816/Assignment1/Assignment1/Content/Sounds/menuselect0.wav</File>
+    <File>C:/Users/Mark/Documents/School/Semester 1 2017/Games Programming Techniques/Projects/7160-Assignment1-u3154816/Assignment1/Assignment1/Content/Sounds/menuselect1.wav</File>
+    <File>C:/Users/Mark/Documents/School/Semester 1 2017/Games Programming Techniques/Projects/7160-Assignment1-u3154816/Assignment1/Assignment1/Content/Sounds/menuselect2.wav</File>
+    <File>C:/Users/Mark/Documents/School/Semester 1 2017/Games Programming Techniques/Projects/7160-Assignment1-u3154816/Assignment1/Assignment1/Content/Sounds/menuselect3.wav</File>
+    <File>C:/Users/Mark/Documents/School/Semester 1 2017/Games Programming Techniques/Projects/7160-Assignment1-u3154816/Assignment1/Assignment1/Content/Textures/Options/high.png</File>
+    <File>C:/Users/Mark/Documents/School/Semester 1 2017/Games Programming Techniques/Projects/7160-Assignment1-u3154816/Assignment1/Assignment1/Content/Textures/Options/low.png</File>
+    <File>C:/Users/Mark/Documents/School/Semester 1 2017/Games Programming Techniques/Projects/7160-Assignment1-u3154816/Assignment1/Assignment1/Content/Textures/Options/med.png</File>
+    <File>C:/Users/Mark/Documents/School/Semester 1 2017/Games Programming Techniques/Projects/7160-Assignment1-u3154816/Assignment1/Assignment1/Content/Textures/Options/medium.png</File>
+    <File>C:/Users/Mark/Documents/School/Semester 1 2017/Games Programming Techniques/Projects/7160-Assignment1-u3154816/Assignment1/Assignment1/Content/Textures/Options/minus.png</File>
+    <File>C:/Users/Mark/Documents/School/Semester 1 2017/Games Programming Techniques/Projects/7160-Assignment1-u3154816/Assignment1/Assignment1/Content/Textures/Options/plus.png</File>
+    <File>C:/Users/Mark/Documents/School/Semester 1 2017/Games Programming Techniques/Projects/7160-Assignment1-u3154816/Assignment1/Assignment1/Content/Fonts/fontMainTitle.spritefont</File>
+    <File>C:/Users/Mark/Documents/School/Semester 1 2017/Games Programming Techniques/Projects/7160-Assignment1-u3154816/Assignment1/Assignment1/Content/Textures/Dart.png</File>
+    <File>C:/Users/Mark/Documents/School/Semester 1 2017/Games Programming Techniques/Projects/7160-Assignment1-u3154816/Assignment1/Assignment1/Content/Textures/bulletEnemy.png</File>
+    <File>C:/Users/Mark/Documents/School/Semester 1 2017/Games Programming Techniques/Projects/7160-Assignment1-u3154816/Assignment1/Assignment1/Content/Textures/fighter.png</File>
+    <File>C:/Users/Mark/Documents/School/Semester 1 2017/Games Programming Techniques/Projects/7160-Assignment1-u3154816/Assignment1/Assignment1/Content/Textures/powerups.png</File>
+    <File>C:/Users/Mark/Documents/School/Semester 1 2017/Games Programming Techniques/Projects/7160-Assignment1-u3154816/Assignment1/Assignment1/Content/Textures/boss.png</File>
+    <File>C:/Users/Mark/Documents/School/Semester 1 2017/Games Programming Techniques/Projects/7160-Assignment1-u3154816/Assignment1/Assignment1/Content/Fonts/fontMainTitleLarge.spritefont</File>
+    <File>C:/Users/Mark/Documents/School/Semester 1 2017/Games Programming Techniques/Projects/7160-Assignment1-u3154816/Assignment1/Assignment1/Content/Textures/particle.png</File>
+  </SourceFiles>
+</SourceFileCollection>
