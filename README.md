@@ -1,4 +1,4 @@
-# XNA-2D-Game
+# Monogame-2D-Game
 
 2D Arcade game built in monogame 4.0
 
