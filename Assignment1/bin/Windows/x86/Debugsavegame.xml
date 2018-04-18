@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <SaveGameData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <currLevel>0</currLevel>
-  <currScore>0</currScore>
-  <currLives>5</currLives>
+  <currScore>1335</currScore>
+  <currLives>6</currLives>
   <currGraphics>2</currGraphics>
   <currVolume>0.09000018</currVolume>
 </SaveGameData>

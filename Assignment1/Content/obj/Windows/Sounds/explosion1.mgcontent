@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/Mark/Documents/School/Semester 1 2017/Games Programming Techniques/Projects/7160-Assignment1-u3154816/Assignment1/Assignment1/Content/Sounds/explosion1.wav</SourceFile>
-  <SourceTime>2017-05-11T11:31:55.4027245+10:00</SourceTime>
-  <DestFile>C:/Users/Mark/Documents/School/Semester 1 2017/Games Programming Techniques/Projects/7160-Assignment1-u3154816/Assignment1/Assignment1/Content/bin/Windows/Sounds/explosion1.xnb</DestFile>
-  <DestTime>2017-05-11T11:32:54.2481353+10:00</DestTime>
+  <SourceFile>C:/Users/Marco/Documents/Projects/Monogame-2D-Game/Assignment1/Content/Sounds/explosion1.wav</SourceFile>
+  <SourceTime>2018-04-19T03:20:54.3276199+10:00</SourceTime>
+  <DestFile>C:/Users/Marco/Documents/Projects/Monogame-2D-Game/Assignment1/Content/bin/Windows/Sounds/explosion1.xnb</DestFile>
+  <DestTime>2018-04-19T03:24:01.973928+10:00</DestTime>
   <Importer>WavImporter</Importer>
-  <ImporterTime>2016-03-30T17:36:08+11:00</ImporterTime>
+  <ImporterTime>2017-03-02T02:05:36+11:00</ImporterTime>
   <Processor>SoundEffectProcessor</Processor>
-  <ProcessorTime>2016-03-30T17:36:08+11:00</ProcessorTime>
+  <ProcessorTime>2017-03-02T02:05:36+11:00</ProcessorTime>
   <Parameters>
     <Key>Quality</Key>
     <Value>Best</Value>
